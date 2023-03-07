@@ -5,3 +5,4 @@ changeMakefileAM
 addLibexecScript
 1
 changedDirect
+AddScriptAsLib
